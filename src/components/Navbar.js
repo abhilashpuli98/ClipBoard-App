@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { FiClipboard, FiPlus, FiFolder, FiClock, FiTrash2, FiSettings, FiMenu, FiX } from 'react-icons/fi';
-import { THEMES } from '../utils/constants';
 
 function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
