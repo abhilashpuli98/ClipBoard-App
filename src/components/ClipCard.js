@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import { formatDistanceToNow } from 'date-fns';
 import { FiClock, FiLock, FiStar, FiCode, FiTrash2, FiRefreshCw } from 'react-icons/fi';
 import { useClips } from '../context/ClipContext';
-import { isClipExpired, getByteSize, formatBytes } from '../utils/clipUtils';
 
 function ClipCard({ clip, isTrash = false }) {
     const { togglePin, restoreClip, permanentDelete } = useClips();
