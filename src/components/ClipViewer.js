@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Light as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { vs2015, vs } from 'react-syntax-highlighter/dist/esm/styles/hljs';
-import { FiCopy, FiCheck, FiShare2, FiMonitor } from 'react-icons/fi';
+import { FiCopy, FiCheck} from 'react-icons/fi';
 import { useTheme } from '../hooks/useTheme';
 import { THEMES } from '../utils/constants';
 import { toast } from './Toast';
