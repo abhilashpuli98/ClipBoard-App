@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClipBoard-App/static/css/main.813612cd.css",
+    "main.js": "/ClipBoard-App/static/js/main.3e99df78.js",
+    "index.html": "/ClipBoard-App/index.html",
+    "main.813612cd.css.map": "/ClipBoard-App/static/css/main.813612cd.css.map",
+    "main.3e99df78.js.map": "/ClipBoard-App/static/js/main.3e99df78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.813612cd.css",
+    "static/js/main.3e99df78.js"
+  ]
+}
